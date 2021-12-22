@@ -26,4 +26,4 @@ journey men \
 (those embarking on this epoch journey of developing their human spiritual and  intellectual will power) \
 
 
-![Use Case Diagram](https://github.com/TheJollyLaMa/DecentMentor/blob/8a0afd3f7155c11a8081bca44311624e446cb6b5/DecentMentor.png)
+![Use Case Diagram](https://github.com/TheJollyLaMa/DecentMentor/blob/ec46e894324e13e1a64afa349c7649d10320d791/DecentMentor.png)
