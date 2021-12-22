@@ -24,3 +24,6 @@ The entry point for proteges \
 or \
 journey men \
 (those embarking on this epoch journey of developing their human spiritual and  intellectual will power) \
+
+
+![Use Case Diagram](https://github.com/TheJollyLaMa/BabelBet/blob/41b6918efa809c1b135d583881f30ae4071735d3/Use_Case_Diagram.png)
