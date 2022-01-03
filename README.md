@@ -28,4 +28,6 @@ journey men \
 
 ![Use Case Diagram](https://github.com/TheJollyLaMa/DecentMentor/blob/7416d83243a66c9b279200efef99d73bec56a6d7/DecentMentor.png)
 
-![Aptitude Test CodeAcademy](https://github.com/TheJollyLaMa/DecentMentor/blob/7416d83243a66c9b279200efef99d73bec56a6d7/DecentMentor.png)
+
+This simple aptitude test was from codeacademy. 8 questions can really help mentors specialize and concentrate their attention.
+![Aptitude Test CodeAcademy](https://github.com/TheJollyLaMa/DecentMentor/blob/8e682b548928e767d641741582be4907edce62ac/JollyAptitude_CodeAcademy.png)
