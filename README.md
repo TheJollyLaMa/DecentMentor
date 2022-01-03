@@ -27,3 +27,5 @@ journey men \
 
 
 ![Use Case Diagram](https://github.com/TheJollyLaMa/DecentMentor/blob/7416d83243a66c9b279200efef99d73bec56a6d7/DecentMentor.png)
+
+![Aptitude Test CodeAcademy](https://github.com/TheJollyLaMa/DecentMentor/blob/7416d83243a66c9b279200efef99d73bec56a6d7/DecentMentor.png)
